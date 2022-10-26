@@ -23,4 +23,5 @@ To create a virtual environment, we can use the [Virtualenv](https://virtualenv.
 
 ```
 sudo apt update
+sudo apt upgrade
 ```
