@@ -31,3 +31,5 @@ If the system you are using has GPU capabilities and you would like to enable th
 ```
 sudo apt install nvidia-cuda-toolkit
 ```
+
+## Step 2: Installation using Pip
