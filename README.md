@@ -18,3 +18,9 @@ To keep all our related libraries localized, I will be creating a virtual enviro
 ## Step 0: Virtual Environment (Optional)
 
 To create a virtual environment, we can use the [Virtualenv](https://virtualenv.pypa.io/en/latest/) package.
+
+## Step 1: Update base packages
+
+```
+sudo apt update
+```
