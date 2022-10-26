@@ -25,3 +25,9 @@ To create a virtual environment, we can use the [Virtualenv](https://virtualenv.
 sudo apt update
 sudo apt upgrade
 ```
+
+If the system you are using has GPU capabilities and you would like to enable them install the Nvidia toolkit.
+
+```
+sudo apt install nvidia-cuda-toolkit
+```
